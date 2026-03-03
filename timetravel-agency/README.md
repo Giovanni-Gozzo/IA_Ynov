@@ -2,6 +2,10 @@
 
 Webapp pour une agence de voyage temporel de luxe fictive, développée dans le cadre de la Session 2 du Projet Supervisé IA.
 
+## 🌍 Liens du Projet
+- **Site en Ligne (Vercel)** : [https://ia-ynov-rho.vercel.app/](https://ia-ynov-rho.vercel.app/)
+- **Repository GitHub** : [https://github.com/Giovanni-Gozzo/IA_Ynov](https://github.com/Giovanni-Gozzo/IA_Ynov)
+
 ## 👥 L'Équipe
 - César Lemaire
 - Giovanni Gozzo
